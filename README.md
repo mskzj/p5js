@@ -4,7 +4,4 @@ Incuding some  works of p5js
 #small works
 1. jummping heart
 运用像素来展示跳动的爱心
-![](https://github.com/mskzj/p5js/blob/master/jummping_heart/jumming%20heart.mp4)
-<audio id="audio" controls="" preload="none">
-      <source id="mp4" src="https://github.com/mskzj/p5js/blob/master/jummping_heart/jumming%20heart.mp4">
-      </audio>
+![](https://github.com/mskzj/p5js/blob/master/jummping_heart/jumming%20heart.gif)
